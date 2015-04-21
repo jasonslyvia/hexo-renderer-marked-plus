@@ -1,7 +1,7 @@
 {
-  "name": "hexo-renderer-marked",
-  "version": "0.2.5",
-  "description": "Markdown renderer plugin for Hexo",
+  "name": "hexo-renderer-marked-plus",
+  "version": "0.0.1",
+  "description": "Based on hexo-renderer-marked",
   "main": "index",
   "scripts": {
     "test": "gulp test"
@@ -12,14 +12,14 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "hexojs/hexo-renderer-marked",
+  "repository": "jasonslyvia/hexo-renderer-marked-plus",
   "keywords": [
     "hexo",
     "markdown",
     "marked",
     "renderer"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "jasonslyvia",
   "license": "MIT",
   "dependencies": {
     "hexo-util": "^0.1.0",
